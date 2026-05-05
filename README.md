@@ -1,7 +1,14 @@
 # Implementing Theory
-This exercise explores key concepts in Operating Systems, with a particular focus on how a program’s structure influences the performance of demand paging.
-Carefully review the theoretical material, and apply the appropriate modifications to the provided source code (file ...). Be sure to include comments in your code that clearly mention the principle applied in each change.
+This exercise explores key concepts in Operating Systems, with a particular focus on how a program’s **structure** influences the **performance** (of demand paging).
 
+### You should:
+- [ ] Carefully review the theoretical material.
+- [ ] Apply the appropriate modifications to the provided source code (file ...).
+- [ ] Include comments in your code that clearly mention the principle applied in each change.
+
+### Optionally:
+- [ ] Fork this repository.
+- [ ] Create a pull request once you’ve finished implementing your changes in the repository.
 
 ```cpp
 #include <iostream>
