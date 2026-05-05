@@ -3,7 +3,7 @@ This exercise explores key concepts in Operating Systems, with a particular focu
 
 ### You should:
 - [ ] Carefully review the theoretical material.
-- [ ] Apply the appropriate modifications to the provided source code (file ...).
+- [ ] Apply the appropriate modifications to the provided source code (file [code/main.cpp](./code/main.cpp).
 - [ ] Include comments in your code that clearly mention the principle applied in each change.
 
 ### Optionally:
