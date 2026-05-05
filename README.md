@@ -8,7 +8,8 @@ This exercise explores key concepts in Operating Systems, with a particular focu
 
 ### Optionally:
 - [ ] Fork this repository.
-- [ ] Create a pull request once you’ve finished implementing your changes in the repository.
+- [ ] Rename source code file.
+- [ ] Create a pull request once you’ve finished implementing your changes in the repository (=adding your file to the parent repository).
 
 
 ### The source code:
