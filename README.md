@@ -12,6 +12,9 @@ This exercise explores key concepts in Operating Systems, with a particular focu
 
 
 ### The source code:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/softwareDesign24/structurePerformance)
+
 ```cpp
 #include <iostream>
 
