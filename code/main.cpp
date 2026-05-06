@@ -26,7 +26,7 @@ int main() {
 
     cout << "\nMarks (printed column by column):" << endl;
 
-    // Column by column
+    // Print array contents
     for (int col = 0; col < number_of_columns; col++) {
         for (int row = 0; row < number_of_rows; row++) {
             cout << marks[row][col] << " ";
