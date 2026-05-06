@@ -43,7 +43,7 @@ int main() {
     cout << "Surname: " << surname << endl;
     cout << "Student ID: " << student_id << endl;
 
-    cout << "\nMarks (printed column by column):" << endl;
+    cout << "\nMarks:" << endl;
 
     // Print array contents
     for (int col = 0; col < number_of_columns; col++) {
