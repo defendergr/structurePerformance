@@ -3,7 +3,7 @@ This exercise explores key concepts in Operating Systems, with a particular focu
 
 ### You should:
 - [ ] Carefully review the theoretical material.
-- [ ] Apply the appropriate modifications to the provided source code (**C++** file: [code/main.cpp](./code/main.cpp)).
+- [ ] Apply the appropriate modifications to the provided source code (**C++** file: [code/main.cpp](./code/main.cpp)) for better system performance. Assume that memory page length of the Operating System is 3 units.
 - [ ] Include comments in your code that clearly mention the principle applied in each change.
 
 ### Optionally:
