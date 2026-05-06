@@ -38,7 +38,7 @@ int main() {
     int number_of_rows = 3;
     int number_of_columns = 3;
 
-    // Print the array
+    // Print array contents
     cout << "Name: " << name << endl;
     cout << "Surname: " << surname << endl;
     cout << "Student ID: " << student_id << endl;
